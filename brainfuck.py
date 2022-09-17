@@ -66,6 +66,8 @@ def brainfuck(input):
                         count += 1
                     elif input[i] == "[":
                         count -= 1
+        else:
+            pass
         i += 1
 
     # print(memory)
