@@ -69,7 +69,7 @@ https://en.wikipedia.org/wiki/ASCII
 
 ## TODO
 
-- [ ] Getting filename from args and read from the file
+- [x] Getting filename from args and read from the file
 
 You are welcome to add more features and send Pull request.
 
