@@ -8,6 +8,23 @@ A Python-based interpreter to read and run Brainfuck programs in pure Python in 
 $ python brainfuck.py
 ```
 
+### Hello World
+
+```
+>++++++++[<+++++++++>-]<.
+>++++[<+++++++>-]<+.
++++++++..
++++.
+>>++++++[<+++++++>-]<++.
+------------.
+>++++++[<+++++++++>-]<+.
+<.
++++.
+------.
+--------.
+>>>++++[<++++++++>-]<+.
+```
+
 ## Tokens
 
 | Token | Description |
