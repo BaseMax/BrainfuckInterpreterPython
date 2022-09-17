@@ -67,10 +67,6 @@ Read more: https://en.wikipedia.org/wiki/Brainfuck
 
 https://en.wikipedia.org/wiki/ASCII
 
-## TODO
-
-- [x] Getting filename from args and read from the file
-
 You are welcome to add more features and send Pull request.
 
 © Copyright 2022, Max Base
