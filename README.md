@@ -1,5 +1,7 @@
 # Brainfuck Interpreter in Python
 
+A Python-based interpreter to read and run Brainfuck programs in pure Python in the simplest way.
+
 ## Using
 
 ```
@@ -37,5 +39,11 @@ Read more: https://en.wikipedia.org/wiki/Brainfuck
 ### ASCII Table
 
 https://en.wikipedia.org/wiki/ASCII
+
+## TODO
+
+- [ ] Getting filename from args and read from the file
+
+You are welcome to add more features and send Pull request.
 
 © Copyright 2022, Max Base
